@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 nan than
+=======
+Nanthan
+>>>>>>> ecdae63b48202ed39c1a361a4cb6d78aa2c95ce3
 import { useState } from 'react';
 import {View, ScrollView, SafeAreaView } from 'react-native';
 import {Stack, useRouter} from 'expo-router';
